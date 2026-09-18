@@ -63,11 +63,13 @@ This is Part 2-CSS and Responsive Design
 
 ### References
 
-1. W3Schools - CSS Flexbox
+1. W3Schools (2025) CSS Flexbox. Available at: https://www.w3schools.com/css/css3_flexbox.asp
    
-2. YouTube - How to make responsive navigation bar
+2. YouTube - How to make responsive navigation  https://www.bing.com/videos/riverview/relatedvideo
    
-3. Google - How to make an enquiry form
+3. Google Fonts (2025) Font selection for web
    
-4. W3School - Media queries and Responsive Design
+4. W3School (2025) CSS Media queries. Available at: https://www.w3schools.com/css/css3_mediaqueries.asp
+   
+5. MDN Web Docs (2025) Responsive Design. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
 
